@@ -1,81 +1,16 @@
 #EXTM3U 
 
- #EXTINF:-1, tvg-id="7"   tvg-name="Azteca 7" tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/1650510815626457303861448885991.png" group-title="Peliculas", Azteca 7 
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Central FM" tvg-logo="https://lh3.googleusercontent.com/-qm6BX63e8LE/X9X_3tLY7NI/AAAAAAAA8K0/Xtz_7wkyE6otRbAbsE45kqGNT80yLF8IACK8BGAsYHg/s0/2020-12-13.png", Central FM
+https://5ca39be538307.streamlock.net:443/centralfm/videocentralfm/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0,WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1 tvg-id="2" tvg-name="24 horas" tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/16692220594115167927152540811843.jpg", 24 horas https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:0,ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="3" tvg-name="America Sports" tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/16692294530063402352911837835140.jpg", America Sports http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
 
-#EXTINF:0,FORO TV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Rakuten Tv" tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/1669245657770387908299179364129.png", Rakuten Tv https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:0,MEXIQUENSE
-https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/chunklist_w735697088.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIyIDM6MTI6MzAgQU0maGFzaF92YWx1ZT1wUkZCTU1WUnNOY1BtQmY0QUYrZVJ3PT0mdmFsaWRtaW51dGVzPTUmaWQ9
+#EXTINF:-1 tvg-id="5" tvg-name="Barca Tv" tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/16692460672567964779503821867444.jpg", Barca Tv http://93.152.174.144:4000/play/barcatv/index.m3u8
 
-#EXTINF:0,CLARO SPORT
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Amas+" tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/16692463642955141858935376528212.png", Amas+ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:0,DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
-
-#EXTINF:0,CANAL10 CHIAPAS
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:0, 24Hrs
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-
-#EXTINF:0, EURONEWS
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF:0, 2 ESPAÑA
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-
-
-#EXTINF:0, CARTOON
-https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-480p.m3u8
-
-#EXTINF:0,TELERITMO
-http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:0,ForoTv
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-
-#EXTINF:0,GARAGE TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-
-#EXTINF:0,SONY
-https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:0,EURO NEWS
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:0,NATURE LOVE
-https://bamus-spa-roku.amagi.tv:443/playlist720-lp.m3u8
-
-#EXTINF:0,TV AGRO
-http://179.1.7.198:1935/live/TVAgroHD.stream_360p/playlist.m3u8
-
-#EXTINF:0,AgroTendencia
-https://inliveserver.com:1936/15506/15506/playlist.m3u8
-
-#EXTINF:0,TELEFORMULA
-https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
-
-#EXTINF:0,NMAS
-https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8?hdnea=exp=1648529755~acl=/*~hmac=36c30652dcf5206dac29717c1ced008327efdaba40e8849d8468c83b2d753a76
-
-#EXTINF:0,El financiero
-https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
-
-
-#EXTINF:0, TOP GUN MAVERICK
-
-https://fvs.io/redirector?token=Q0I5VWovZzlLMk92aldPMDY2aERLTThhRWpOaVNuMXRiNzlSbjVlQU5aV1AxL3NYTFBHSFdRRXBZWld5U25JQUNCWmkyeWpHMDlqbFc4Y3A0d2lGcHNpelVIMVRZSDd2UnZiSkxHUFVFUHpNQ3VFeEs0OWFxYmljcTFqakE2MnRJVjBvL1BLWTkvdnJGallua2cvYjdFbnZuMkVEdkdKVXRNb3U6Y2dlZmpoRis4aUFRdkdiN3dZM3pEUT090rf9
-
-
+#EXTINF:-1 tvg-id="7" tvg-name="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUHQz4KBagQ7hOv-yEyrW-v_1xAODcWQ8vpw&usqp=CAU", TNT Sports https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
