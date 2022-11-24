@@ -75,7 +75,8 @@ https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/in
 
 #EXTIN:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxDeuIB5DeKpZvkDA1I9c8YgszKOYpaudiQ&usqp=CAU", Conecta Tv https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0,
+#EXTINF:0, Conecta Tv
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,
 
