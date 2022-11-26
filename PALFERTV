@@ -1,129 +1,79 @@
 #EXTM3U 
 
- #EXTINF:-1, tvg-id="7"   tvg-name="Azteca 7" tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/1650510815626457303861448885991.png" group-title="Peliculas", Azteca 7 
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Central FM" tvg-logo="https://lh3.googleusercontent.com/-qm6BX63e8LE/X9X_3tLY7NI/AAAAAAAA8K0/Xtz_7wkyE6otRbAbsE45kqGNT80yLF8IACK8BGAsYHg/s0/2020-12-13.png", Central FM
+https://5ca39be538307.streamlock.net:443/centralfm/videocentralfm/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHl65xXZQT-hDmTmoGAj5FDNFiSCN0rsj26w&usqp=CAU", WowTv
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHl65xXZQT-hDmTmoGAj5FDNFiSCN0rsj26w&usqp=CAU", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
-#EXTINF:0,ADN40
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mu8LfbMl1OWUL2BWuSYlhrtLnNSOXBOw8Q&usqp=CAU", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
 
-#EXTINF:0,FORO TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWJOk4BOGvTOn6saw6OamoVAampaXEgt5eg&usqp=CAU", FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:0,MEXIQUENSE
+#EXTINF:0  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5HvPkgx04t1sKJbz117Gt7wcM_zJCeoBaw&usqp=CAU", MEXIQUENSE
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/chunklist_w735697088.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIyIDM6MTI6MzAgQU0maGFzaF92YWx1ZT1wUkZCTU1WUnNOY1BtQmY0QUYrZVJ3PT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
-#EXTINF:0,CLARO SPORT
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxYowxthtMeyYVqb-QKBzc5K_dUgVWuac-Mw&usqp=CAU", CLARO SPORT
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
-#EXTINF:0,DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
-
-#EXTINF:0,CANAL10 CHIAPAS
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-Yl_PHHj3BmtwHqp8vUgVJZjA5DbMAyMIR8wFS=s900-c-k-c0x00ffffff-no-rj", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:0, 24Hrs
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYeL5VqygLksTsevhuytbksyWJthshAuB9MA&usqp=CAU", CANAL10 CHIAPAS
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOfo2O21loVG5nSBjtfpSBM3Fj9foJM86Jg&usqp=CAU", 24Hrs
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 
-#EXTINF:0, EURONEWS
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF:0, 2 ESPAÑA
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png", 2 ESPAÑA
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 
-#EXTINF:0, CARTOON
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc0-LC_2zBHljy-unHvlCNj0JrFAdki-unxg&usqp=CAU", CARTOON
 https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-480p.m3u8
 
-#EXTINF:0,TELERITMO
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Jq5B33cM5-uvxPN6SIlwsqllfQnajSD-AA&usqp=CAU", TELERITMO
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:0,ForoTv
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-
-#EXTINF:0,GARAGE TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQWFXjWinghvXy4Wb1au9uahrZ4ILjzOdgRg&usqp=CAU", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
-#EXTINF:0,SONY
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:0,EURO NEWS
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXl5Gv6-L5nN_-V9BEqNvF0uwRIj2RT5JA&usqp=CAU", EURO NEWS
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0,NATURE LOVE
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbG6_tn96nUcGAnqg0zXZ8HsC5BKJE_sCEw&usqp=CAU", NATURE LOVE
 https://bamus-spa-roku.amagi.tv:443/playlist720-lp.m3u8
 
-#EXTINF:0,TV AGRO
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1200px-TV_Agro_logo.svg.png", TV AGRO
 http://179.1.7.198:1935/live/TVAgroHD.stream_360p/playlist.m3u8
 
-#EXTINF:0,AgroTendencia
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXl5Gv6-L5nN_-V9BEqNvF0uwRIj2RT5JA&usqp=CAU", AgroTendencia
 https://inliveserver.com:1936/15506/15506/playlist.m3u8
 
-#EXTINF:0,TELEFORMULA
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlLNIO9tjrp5sZMPTLCLuD4tNB-3VWdzQ_MA&usqp=CAU", TELEFORMULA
 https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
 
-#EXTINF:0,NMAS
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwO25dcvM3PV2_2Sp1EQ9pIyDAkJTObYrcOg&usqp=CAU", NMAS
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8?hdnea=exp=1648529755~acl=/*~hmac=36c30652dcf5206dac29717c1ced008327efdaba40e8849d8468c83b2d753a76
 
-#EXTINF:0,El financiero
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnMkg-il1gHhCA6wCGX9L1oso2VniWT4KA5w&usqp=CAU", El financiero
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
-#EXTIN:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxDeuIB5DeKpZvkDA1I9c8YgszKOYpaudiQ&usqp=CAU", Conecta Tv https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxDeuIB5DeKpZvkDA1I9c8YgszKOYpaudiQ&usqp=CAU", Conecta Tv
+https://stream8.mexiserver.com:1936/conectatv/conectatv /playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYLCu-bSHFFPNql2NWDqnOdE_3cIVpg6NFlg&usqp=CAU",  Escuadron 6 https://ia904505.us.archive.org/22/items/escuadron-6_202107/Escuadr%C3%B3n%206.mp4
 
-#EXTINF:0, Conecta Tv
-https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrkybgnH0MibQYpoxUrLdYtAG7vKmOd8E_dw&usqp=CAU", Depredador: La presa https://ia601402.us.archive.org/3/items/depredador-la-presa-2022/Depredador%20La%20presa%20%282022%29.mp4
 
-#EXTINF:0,
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/14/07/22/13/18/155845.jpg", Los Indestructibles 3 https://ia902301.us.archive.org/7/items/los-indestructibles-3-2014/Los%20indestructibles%203%20%282014%29.mp4
 
-#EXTINF:0,
-
-#EXTINF:0,
-
-#EXTINF:0,
-
-#EXTINF:0,
-
-#EXTINF:0,
-
-#EXTINF:0,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
